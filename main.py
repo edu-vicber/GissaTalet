@@ -12,5 +12,5 @@ for i in range(3):
     elif attempts < 3:
         print("fel försök igen!")
     else:
-        print("Du förlora, nummret var: ", randomnumber)
+        print("Du förlora, nummret var: ",randomnumber)
  
